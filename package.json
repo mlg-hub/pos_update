@@ -1,0 +1,19 @@
+{
+  "name": "pos_update",
+  "version": "1.0.0",
+  "description": "update for the nemidis app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "flutter"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "js-sha512": "^0.8.0"
+  }
+}

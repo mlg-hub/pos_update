@@ -1,0 +1,12 @@
+[
+
+    {
+        "version": "0.2.0-beta+5",
+        "url": "http://192.168.43.83/distributions/public.json",
+        "releaseNotes": "Addded new features! and bug fixes",
+        "releaseDate": "2022-11-14T13:58:25Z",
+        "mandatory": false,
+        "sha512": "2e0349c1e729eac0f4cb9f831fa1130241743c8db9e115013091dbeec6b8b86dc18c62bcbfab516033869c8ec8c8967615c622303d4bee62640c3b507051aca2"
+    }
+
+]
