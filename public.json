@@ -2,6 +2,15 @@
 
 
     {
+        "version": "2.0.0-beta+5",
+        "url": "https://firebasestorage.googleapis.com/v0/b/savonorfcm.appspot.com/o/pos_nemidis_v2.apk?alt=media&token=a0c0fa56-e9fe-45f3-9219-7ce8da4192ee",
+        "releaseNotes": "Nouvelles mise à jours, avec correction sur utilisateurs",
+        "releaseDate": "2022-11-14T13:58:25Z",
+        "mandatory": false,
+        "sha512": "2e0349c1e729eac0f4cb9f831fa1130241743c8db9e115013091dbeec6b8b86dc18c62bcbfab516033869c8ec8c8967615c622303d4bee62640c3b507051aca2"
+    },
+
+    {
         "version": "1.8.0-beta+5",
         "url": "https://firebasestorage.googleapis.com/v0/b/savonorfcm.appspot.com/o/pos_nemidis_v2.apk?alt=media&token=a0c0fa56-e9fe-45f3-9219-7ce8da4192ee",
         "releaseNotes": "Nouvelles mise à jours, avec correction sur utilisateurs",
